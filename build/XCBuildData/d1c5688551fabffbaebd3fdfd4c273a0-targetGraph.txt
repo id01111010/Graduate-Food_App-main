@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+SDWebImage in Pods, no dependencies
+Pods-Graduate Food_App in Pods, depends on:
+SDWebImage in Pods (explicit)

@@ -1,0 +1,48 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98d4607cd80c528027dd8f21cd862f1f6b"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98c46180aea4e87057640961e6db37df0d"
+    }
+  ],
+  "containerPath" : "/Users/zed/Desktop/Graduate-Food_App-main/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/zed/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/zed/Library/Developer/Xcode/DerivedData/Pods-fhwsdwicmuuhktceigwfhmintfnt/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/zed/Library/Developer/Xcode/DerivedData/Pods-fhwsdwicmuuhktceigwfhmintfnt/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
